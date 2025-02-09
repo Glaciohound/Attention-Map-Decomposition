@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you find the contents and techniques described in this blog useful, please cite it as below."
+authors:
+  - family-names: "Han"
+    given-names: "Chi"
+title: "Decomposing Key and Queue Dimensions of Attention Maps of Large Language Models"
+version: "1.0.0"
+date-released: "2025-02-08"
+url: "https://github.com/Glaciohound/Attention-Map-Decomposition"
